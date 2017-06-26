@@ -1,0 +1,24 @@
+Ambrosiov3.historico, Ambrosiov3;md5de813813b4c282cc1c8aebbbd632d32f.historico
+Ambrosiov3.historico, Ambrosiov3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5de813813b4c282cc1c8aebbbd632d32f.historico
+Ambrosiov3.historico;md5de813813b4c282cc1c8aebbbd632d32f.historico
+ambrosiov3.historico;md5de813813b4c282cc1c8aebbbd632d32f.historico
+Ambrosiov3.inicial, Ambrosiov3;md5de813813b4c282cc1c8aebbbd632d32f.inicial
+Ambrosiov3.inicial, Ambrosiov3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5de813813b4c282cc1c8aebbbd632d32f.inicial
+Ambrosiov3.inicial;md5de813813b4c282cc1c8aebbbd632d32f.inicial
+ambrosiov3.inicial;md5de813813b4c282cc1c8aebbbd632d32f.inicial
+Ambrosiov3.MainActivity, Ambrosiov3;md5de813813b4c282cc1c8aebbbd632d32f.MainActivity
+Ambrosiov3.MainActivity, Ambrosiov3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5de813813b4c282cc1c8aebbbd632d32f.MainActivity
+Ambrosiov3.MainActivity;md5de813813b4c282cc1c8aebbbd632d32f.MainActivity
+ambrosiov3.MainActivity;md5de813813b4c282cc1c8aebbbd632d32f.MainActivity
+Ambrosiov3.pesquisar, Ambrosiov3;md5de813813b4c282cc1c8aebbbd632d32f.pesquisar
+Ambrosiov3.pesquisar, Ambrosiov3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5de813813b4c282cc1c8aebbbd632d32f.pesquisar
+Ambrosiov3.pesquisar;md5de813813b4c282cc1c8aebbbd632d32f.pesquisar
+ambrosiov3.pesquisar;md5de813813b4c282cc1c8aebbbd632d32f.pesquisar
+Ambrosiov3.registar, Ambrosiov3;md5de813813b4c282cc1c8aebbbd632d32f.registar
+Ambrosiov3.registar, Ambrosiov3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5de813813b4c282cc1c8aebbbd632d32f.registar
+Ambrosiov3.registar;md5de813813b4c282cc1c8aebbbd632d32f.registar
+ambrosiov3.registar;md5de813813b4c282cc1c8aebbbd632d32f.registar
+Ambrosiov3.sugestoes, Ambrosiov3;md5de813813b4c282cc1c8aebbbd632d32f.sugestoes
+Ambrosiov3.sugestoes, Ambrosiov3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5de813813b4c282cc1c8aebbbd632d32f.sugestoes
+Ambrosiov3.sugestoes;md5de813813b4c282cc1c8aebbbd632d32f.sugestoes
+ambrosiov3.sugestoes;md5de813813b4c282cc1c8aebbbd632d32f.sugestoes

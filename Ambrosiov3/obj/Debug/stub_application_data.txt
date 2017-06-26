@@ -1,0 +1,2 @@
+android.app.Application
+Ambrosiov3.Ambrosiov3

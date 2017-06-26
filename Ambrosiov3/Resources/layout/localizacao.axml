@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/linearLayout1"
+    android:background="@android:color/holo_blue_dark">
+  <EditText
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/editText1"
+      android:text="Inserir destino"
+      android:textColor="@android:color/background_light" />
+  <Button
+      android:text="Pedir Trajecto"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/btpedtraj"
+      android:background="@android:color/holo_orange_light"
+      android:layout_marginTop="10dp" />
+  <Button
+      android:text="Voltar"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/btvoltar3"
+      android:background="@android:color/background_light"
+      android:textColor="@android:color/holo_red_dark"
+      android:layout_marginTop="20dp" />
+  <ImageView
+    
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/imageView1"
+      android:layout_marginLeft="10dp"
+      android:layout_marginRight="10dp" />
+</LinearLayout>
